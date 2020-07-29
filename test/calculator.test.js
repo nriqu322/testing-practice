@@ -5,7 +5,7 @@ test('Return sum of two numbers', () => {
 });
 
 test('Return susbtraction', () => {
-  expect(calculator.substract(5, 3)).toBe(2);
+  expect(calculator.subtract(5, 3)).toBe(2);
 });
 
 test('Return division of two numbers', () => {

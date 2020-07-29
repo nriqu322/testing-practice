@@ -7,7 +7,7 @@ In this project you can find unit test for each function.
 ## Built the following functions and respective test:
 * Capitalize(string).
 * Reverse(string).
-* Calculator(sum, substract, divide and multiply).
+* Calculator(sum, subtract, divide and multiply).
 * Caesar Cypher
 * Array Analysis
 
