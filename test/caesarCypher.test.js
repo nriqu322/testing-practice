@@ -7,3 +7,7 @@ test('Return cypher string', () => {
 test('Return cypher string case sensitive', () => {
   expect(caesarCypher('tOmOrRoW', 3)).toBe('wRpRuUrZ');
 });
+
+test('Return cypher string case sensitive', () => {
+  expect(caesarCypher('ATTACK.AT.DAWN', 5)).toBe('FYYFHP.FY.IFBS');
+});
